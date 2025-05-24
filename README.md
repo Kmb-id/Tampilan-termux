@@ -1,10 +1,10 @@
-# TAMPILAN
+# TAMPILAN Termux 
 
-## Termux 
-
- copyright © 2019 + update
-
-<b>Kmb. Id (l4. Error)</b>
+<h3 align="center">L4EROOR</h3>
+<p align="center">
+  <br><b>V.2025 </b>
+</p>
+<img src="https://github.com/Kmb-id/TRI/blob/main/IMG_V.1.2025.jpg" width="100%" alt="screenshot">
 ```
 Tampilan Termux
 ```

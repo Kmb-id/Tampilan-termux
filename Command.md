@@ -1,10 +1,9 @@
-# Cara install TERMUX di android 5 or 6 dan
-# Cara Mengatasi EROOR (FIX's to UPDATE)
-<p>
-<h1><b> Step 1</b></h1>
-• DOWNLOAD TERMUX APK di = https://sfile.mobi/1Uz4YvUJyoO7<br>
-• INSTALL file TERMUX nya + Buka</br></br>
-<h1><b> Step 2</b></h1><br>
+# Cara install TERMUX di android 5 or 6 dan Mengatasi EROOR (FIX's to UPDATE)
+
+# Step 1
+- DOWNLOAD TERMUX APK </b><br>👉 [{Here}](https://sfile.mobi/1Uz4YvUJyoO7)  </br>
+
+# Step 2
 • Ikuti perintah di bawah ini 1 per 1<br>
 • Ketik :</br>
 
@@ -18,10 +17,9 @@ $ cd ~
 $ apt-get update -y
 $ apt-get upgrade -y
 ```
-<b><h1> Step 3</b></h1>
+# Step 3 [Done]
 - TERMUX sudah UPDATE dan bisa install PACKAGE lainya yang di butuhkan<br>
 Seperti :<br>
   - Python<br>
   - PHP<br>
   DLL
-  </p>

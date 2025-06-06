@@ -1,9 +1,11 @@
 # TAMPILAN Termux 
-- <b>Downloads Applikasi TERMUX  :</b><br>👉 [{Here}](https://f-droid.org/repo/com.termux_1021.apk)  update 5 April 2025</br>
-<b> Atau</b><br>👉 [{other}](https://f-droid.org/repo/com.termux_1021.apk) pilih versi lain</br>
+ 🙏Secara Manual<br>
+ 👍BerKreasi sendiri
+- <b>Downloads Applikasi TERMUX  :</b><br>👉 [{Here}](https://f-droid.org/repo/com.termux_1002.apk)  </br>
+<b> Atau</b><br>👉 [{other}](https://f-droid.org/packages/com.termux/) pilih versi lain</br>
 
 # cara buatnya :
-- copy Text dari file "PS1.text" atau "PS2.Text" di atas
+- copy Text dari file "PS1.text" atau "PS2.Text" atau "text" Lainnya yg di atas
 - Buka Aplikasi Termuxnya
 ```
 $ cd .. /usr/etc
@@ -11,8 +13,9 @@ $ nano bash.bashrc
 ```
 - Lalu arahkan kebawah hingga akhir/ujung paling bawah.
 - Lalu PASTE/TEMPEL Text yg di copy tadi
-- Terus Simpan dg pencet Tombol "CTRL" trus "X" dan "Y"
--(DONE) 👍
+- Terus Simpan dg pencet Tombol "CTRL" trus huruf "X" lalu huruf "Y"
+- Lalu di ENTER ↩️
+- (👍 Done ✅) 
 
 <h3 align="center">L4EROOR</h3>
 <p align="center">

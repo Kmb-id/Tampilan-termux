@@ -1,7 +1,10 @@
-# TAMPILAN Termux 
+# TAMPILAN Termux <br> Android 5 / 6 dan 7+
  🙏Secara Manual<br>
  👍BerKreasi sendiri
-- <b>Downloads Applikasi TERMUX  :</b><br>👉 [{Here}](https://f-droid.org/repo/com.termux_1002.apk)  </br>
+## <b>Downloads aplikasi Termux
+- For Android 5 or 6 :</b><br>👉 [{Here}](https://sfile.mobi/1Uz4YvUJyoO7)  </br>
+   • How fix's install  :</b><br> [{step for android 5 or 6}](https://f-droid.org/repo/com.termux_1002.apk)  </br><br>
+- For Android 7+ :</b><br>👉 [{Here}](https://f-droid.org/repo/com.termux_1002.apk)  </br>
 <b> Atau</b><br>👉 [{other}](https://f-droid.org/packages/com.termux/) pilih versi lain</br>
 
 # cara buatnya :

@@ -17,6 +17,7 @@
     $ cd ../usr/etc
     $ nano bash.bashrc
   - Lalu arahkan kebawah hingga akhir/ujung paling bawah.
+    <img src="https://github.com/Kmb-id/Tampilan-termux/blob/main/Demo/Bashrc.jpg" width="100%">
   - Lalu PASTE/TEMPEL Text yg di copy tadi
   - Terus Simpan dengan pencet Tombol ```CTRL```  trus huruf  ```X```  lalu huruf  ```Y```
   - Lalu di ENTER ↩️
@@ -31,11 +32,11 @@
 <p align="center">
   <br><b>👇 HASIL TAMPILAN "DEMO" 👇 <b>
 </p> 1&2
-<img src="https://github.com/Kmb-id/Tampilan-termux/blob/main/Demo/1%262.jpg" width="100%" alt="screenshot">
+<img src="https://github.com/Kmb-id/Tampilan-termux/blob/main/Demo/1%262.jpg" width="100%">
    Hacked
-   <img src="https://github.com/Kmb-id/Tampilan-termux/blob/main/Demo/Hacked.jpg" width="100%" alt="screenshot">
+   <img src="https://github.com/Kmb-id/Tampilan-termux/blob/main/Demo/Hacked.jpg" width="100%">
    HyDra
-   <img src="https://github.com/Kmb-id/Tampilan-termux/blob/main/Demo/Hydra2.jpg" width="100%" alt="screenshot">
+   <img src="https://github.com/Kmb-id/Tampilan-termux/blob/main/Demo/Hydra2.jpg" width="100%">
    
 ### ENJOY IN YOUR LIVE .... NEVER GIVE UP
 ### KEEP SMILE 😁

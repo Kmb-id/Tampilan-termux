@@ -13,13 +13,12 @@
   - "2.txt" atau
   - "Hydra.txt" txt Lain nya
 - Buka Aplikasi Termux nya
-```
-$ cd ../usr/etc
-$ nano bash.bashrc
-```
+  - ```
+    $ cd ../usr/etc
+    $ nano bash.bashrc
   - Lalu arahkan kebawah hingga akhir/ujung paling bawah.
   - Lalu PASTE/TEMPEL Text yg di copy tadi
-  - Terus Simpan dengan pencet Tombol "CTRL"  trus huruf  "X"  lalu huruf  "Y"
+  - Terus Simpan dengan pencet Tombol ```CTRL```  trus huruf  ```X```  lalu huruf  ```Y```
   - Lalu di ENTER ↩️
   - (👍 Done ✅) 
 

@@ -1,17 +1,17 @@
 # TAMPILAN Termux <br> Android 5 / 6 dan 7+
- 🙏Secara ManuaL<br>
- 👍BerKreasi sendiri
+ 🙏• Secara ManuaL<br>
+ 👍• BerKreasi Sendiri
 ## <b>Downloads aplikasi Termux
 - For Android 5 or 6 :</b><br>👉 [{Here}](https://sfile.mobi/1Uz4YvUJyoO7)  </br>
    • How fix's Error installation  :</b><br> [{step for android 5 or 6}](https://github.com/Kmb-id/Tampilan-termux/blob/main/Command.md)  </br><br>
 - For Android 7+ :</b><br>👉 [{Here}](https://f-droid.org/repo/com.termux_1002.apk)  </br>
-<b> Atau</b><br>👉 [{other}](https://f-droid.org/packages/com.termux/) pilih versi lain</br>
+<b> or</b><br>👉 [{other version}](https://f-droid.org/packages/com.termux/) </br>
 
 # Cara Buatnya : 
-- Pilih dan Copy Text dari file di atas :
-  - "PS1.text" atau
-  - "PS2.Text" atau
-  - text/txt Lain nya
+- Pilih & Copy Teks dari folder```PS1``` :
+  - "1.txt" atau
+  - "2.txt" atau
+  - "Hydra.txt" txt Lain nya
 - Buka Aplikasi Termux nya
 ```
 $ cd ../usr/etc

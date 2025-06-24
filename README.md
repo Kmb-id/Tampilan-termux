@@ -1,3 +1,10 @@
+<h3 align="center">L4EROOR</h3>
+<p align="center">
+  <a href="https://www.facebook.com/L4EROOR" target"_blank">
+      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    </a>
+  <a href="https://t.me/L4EROOR_OFFICIAL"><img src="https://img.shields.io/badge/telegram-0088CC.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+ 
 # TAMPILAN Termux <br> Android 5 / 6 dan 7+
  🙏• Secara ManuaL<br>
  👍• BerKreasi Sendiri
@@ -23,14 +30,9 @@
   - Lalu di ENTER ↩️
   - (👍 Done ✅) 
 
-<h3 align="center">L4EROOR</h3>
+# DEMO
 <p align="center">
-  <a href="https://www.facebook.com/L4EROOR" target"_blank">
-      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-    </a>
-  <a href="https://t.me/L4EROOR_OFFICIAL"><img src="https://img.shields.io/badge/telegram-0088CC.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<p align="center">
-  <br><b>👇 HASIL TAMPILAN "DEMO" 👇 <b>
+  <br><b>👇 HASIL TAMPILAN 👇 <b>
 </p> 1&2
 <img src="https://github.com/Kmb-id/Tampilan-termux/blob/main/Demo/1%262.jpg" width="100%">
    Hacked

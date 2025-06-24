@@ -30,8 +30,13 @@ $ nano bash.bashrc
     </a>
   <a href="https://t.me/L4EROOR_OFFICIAL"><img src="https://img.shields.io/badge/telegram-0088CC.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <p align="center">
-  <br><b>👇 HasiL Tampilan 👇 </b>
-</p>
-<img src="https://github.com/Kmb-id/Tampilan-termux/blob/main/Hasil_tampilan_Termux.jpg" style="width=300px" alt="screenshot">
-### ENJOY IN YOUR LIVE....NEVER GIVE UP
+  <br><b>👇 HASIL TAMPILAN "DEMO" 👇 <b>
+</p> 1&2
+<img src="https://github.com/Kmb-id/Tampilan-termux/blob/main/Demo/1%262.jpg" width="100%" alt="screenshot">
+   Hacked
+   <img src="https://github.com/Kmb-id/Tampilan-termux/blob/main/Demo/Hacked.jpg" width="100%" alt="screenshot">
+   HyDra
+   <img src="https://github.com/Kmb-id/Tampilan-termux/blob/main/Demo/Hydra2.jpg" width="100%" alt="screenshot">
+   
+### ENJOY IN YOUR LIVE .... NEVER GIVE UP
 ### KEEP SMILE 😁

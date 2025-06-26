@@ -3,7 +3,7 @@
   <a href="https://www.facebook.com/L4EROOR" target"_blank">
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
-  <a href="https://t.me/L4EROOR_OFFICIAL"><img src="https://img.shields.io/badge/telegram-0088CC.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/L4EROOR"><img src="https://img.shields.io/badge/telegram-0088CC.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
  
 # TAMPILAN Termux <br> Android 5 / 6 dan 7+
  🙏• Secara ManuaL<br>

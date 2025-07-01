@@ -41,7 +41,6 @@
    <img src="https://github.com/Kmb-id/Tampilan-termux/blob/main/Demo/Hydra2.jpg" width="100%">
 
     # 
-# Dragon
-[{Here}](https://github.com/Kmb-id/Tampilan-termux/blob/main/Demo/Dragon_warna%C2%B2i.jpg)
-[video.m4](https://github.com/Kmb-id/Tampilan-termux/blob/main/Demo/Dragon_warna_warni.mp4)]
+#
+[DRAGON THEMA](https://raw.githubusercontent.com/Kmb-id/Tampilan-termux/blob/main/Demo/Dragon_warna_warni.mp4) 8
 ### KEEP SMILE 😁

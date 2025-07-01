@@ -42,5 +42,5 @@
 
     # 
 #
-[DRAGON THEMA](https://raw.githubusercontent.com/Kmb-id/Tampilan-termux/blob/main/Demo/Dragon_warna_warni.mp4) 8
+[DRAGON THEMA](https://raw.githubusercontent.com/Kmb-id/Tampilan-termux/blob/main/Demo/Dragon_warna_warni.mp4)
 ### KEEP SMILE 😁

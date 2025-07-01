@@ -35,10 +35,13 @@
   <br><b>👇 HASIL TAMPILAN 👇 <b>
 </p> 1&2
 <img src="https://github.com/Kmb-id/Tampilan-termux/blob/main/Demo/1%262.jpg" width="100%">
-   Hacked
+# Hacked
    <img src="https://github.com/Kmb-id/Tampilan-termux/blob/main/Demo/Hacked.jpg" width="100%">
-   HyDra
+# HyDra
    <img src="https://github.com/Kmb-id/Tampilan-termux/blob/main/Demo/Hydra2.jpg" width="100%">
-   
-### ENJOY IN YOUR LIVE .... NEVER GIVE UP
+
+    # 
+# Dragon
+[{Here}](https://github.com/Kmb-id/Tampilan-termux/blob/main/Demo/Dragon_warna%C2%B2i.jpg)
+[video.m4](https://github.com/Kmb-id/Tampilan-termux/blob/main/Demo/Dragon_warna_warni.mp4)]
 ### KEEP SMILE 😁

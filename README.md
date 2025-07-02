@@ -41,16 +41,22 @@
 <img src="https://github.com/Kmb-id/Tampilan-termux/blob/main/Demo/1%262.jpg" width="50%">
     
 #
+- Hacked<br>
 [HACKED THEMA](https://github.com/Kmb-id/Tampilan-termux/blob/main/Demo/Hacked.jpg)
    <img src="https://github.com/Kmb-id/Tampilan-termux/blob/main/Demo/Hacked.jpg" width="50%">
 
 #
+- HYDRA DRAGON<br>
 [HYDRA THEMA](https://github.com/Kmb-id/Tampilan-termux/blob/main/Demo/Hydra2.jpg)
    <img src="https://github.com/Kmb-id/Tampilan-termux/blob/main/Demo/Hydra2.jpg" width="50%">
 
 #
+- Auto ganta-ganti warna<br>
 [DRAGON THEMA](https://github.com/Kmb-id/Tampilan-termux/blob/main/Demo/Dragon_warna_warni.mp4)
   <img src="https://github.com/Kmb-id/Tampilan-termux/blob/main/Demo/Dragon_warna%C2%B2i.jpg" width="50%">
 
 
-### KEEP SMILE 😁
+#####
+  - - ENJOY AND HAVE FUNN
+#####
+  - - DONT FORGET TO KEEP SMILE 😁

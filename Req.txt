@@ -1,0 +1,4 @@
+pkg update && pkg upgrade -y
+pkg install ruby toilet figlet -y
+gem install lolcat
+gem update --sys 3.6.9
